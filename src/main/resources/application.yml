@@ -1,0 +1,6 @@
+micronaut:
+    application:
+        name: trymicronaut
+
+    server:
+        port: 9091
